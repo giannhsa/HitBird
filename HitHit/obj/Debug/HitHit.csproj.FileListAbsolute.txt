@@ -1,0 +1,13 @@
+C:\Users\Giannhs\source\repos\HitHit\HitHit\bin\Debug\HitHit.exe.config
+C:\Users\Giannhs\source\repos\HitHit\HitHit\bin\Debug\HitHit.exe
+C:\Users\Giannhs\source\repos\HitHit\HitHit\bin\Debug\HitHit.pdb
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.csprojAssemblyReference.cache
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.Form1.resources
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.Properties.Resources.resources
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.csproj.GenerateResource.cache
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.csproj.CoreCompileInputs.cache
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.exe
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.pdb
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.Form2.resources
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.Form3.resources
+C:\Users\Giannhs\source\repos\HitHit\HitHit\obj\Debug\HitHit.Form4.resources
